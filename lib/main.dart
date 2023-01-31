@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter App123'),
+        title: Text('Flutter App'),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.add),
